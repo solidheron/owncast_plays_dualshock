@@ -24,7 +24,7 @@ This repository contains a script that enables users to control a DualShock-comp
 
 Run the script with:
 ```sh
-python owncast_plays.py
+python owncast_plays_dualshock.py
 ```
 this script was built around duckstation emulator make sure to run the script first then hook it up to (duckstation) emulator
 
