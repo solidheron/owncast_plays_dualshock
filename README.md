@@ -38,13 +38,22 @@ start # Start button
 t     # press triangle
 ur    # press up and right simultaneously 
 ```
+add numbers to the end commands to repeat the command up to 15 times
+```
+up 5          # Move up 5 times
+down right 10 # Move down 10 times
+x 3           # Press X button times
+r1 1          # press right 1 shoulder button 1 time
+t s 4          # press triangle and square 4 times
+dl 2           # press down and left simultaneously 2 times
+```
 
 
 ## Known Issues
 - script has randomly inputted the last 15 chatroom responses during the fix for that happens to make it so if 15 or more inputs in between cycles then there wont be any button presses
 
 ## Contributing
-Pull requests and feature suggestions are welcome! Please open an issue if you encounter any bugs or have ideas for improvements.
+Pull requests and feature suggestions are welcome! Keep in mind i dont have owncast server so I might not be able to test or figure out any improvements
 
 ## License
 This is free and unencumbered software released into the public domain.
