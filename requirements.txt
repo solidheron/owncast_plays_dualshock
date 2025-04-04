@@ -1,0 +1,5 @@
+pynput
+requests
+evdev  # Required for Linux gamepad emulation
+vgamepad  # Required for Windows gamepad emulation
+playwright
